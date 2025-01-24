@@ -1,0 +1,14 @@
+---
+title: "RMarkDownMohammadSadeghMahmoudiLord"
+author: "Mohammad Sadegh Mahmoudi Lord"
+date: "2025-01-24"
+output: word_document
+---
+
+
+
+#This is a **markdown** file
+
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
